@@ -29,7 +29,7 @@ The Diffusers library by Hugging Face is used with inspiration from the
 
 [license]: LICENSE.txt
 [colab-badge]: https://colab.research.google.com/assets/colab-badge.svg
-[colab-url]: https://colab.research.google.com/github/rlaneth/figment-fusion/blob/master/FigmentFusion.ipynb
+[colab-url]: https://colab.research.google.com/github/rlaneth/figment-fusion/blob/current/FigmentFusion.ipynb
 [stable-diffusion]: https://stability.ai/blog/stable-diffusion-announcement
 [diffusers]: https://github.com/huggingface/diffusers
 [compvis]: https://github.com/CompVis
