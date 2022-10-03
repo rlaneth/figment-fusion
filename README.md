@@ -1,4 +1,4 @@
-![][https://raw.githubusercontent.com/rlaneth/figment-fusion/master/LOGO.svg]
+![](https://github.com/rlaneth/figment-fusion/blob/master/LOGO.svg?raw=true)
 
 # Figment Fusion
 
