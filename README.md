@@ -34,11 +34,6 @@ Fusion releases.
   contributors of the library ([issue #277][diffusers-issue-schedulers] at the
   Diffusers project).
 
-- **Negative prompts**  
-  Not present in the latest release of Diffusers. However, it may be implemented
-  in the near future ([pull request #549][diffusers-pull-negative-prompt] at the
-  Diffusers project).
-
 - **Image-to-image and inpainting**  
   Not yet implemented because it has not been decided how to build a practical
   image-to-image and inpainting user interface that can be embedded in the
