@@ -50,7 +50,7 @@ Fusion releases.
   [RunPod][runpod] and [Vast.ai][vast-ai].
 
 - **Simplicity**  
-  _“Do one thing and do it well”_ is a [Unix philosopy][unix-philosophy]
+  _“Do one thing and do it well”_ is a [Unix philosophy][unix-philosophy]
   principle that Figment Fusion follows. As a utility designed solely for image
   generation, it does not include features such as facial enhancement and
   upscaling. This implies that it is not a complete solution for creating
