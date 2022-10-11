@@ -12,7 +12,7 @@ models.
 The project is primarily aimed at technology enthusiasts who may not have a
 background in machine learning but are eager to get started. The goal is to
 create a tool that encourages playing with source code and assists in
-understanding how to use diffusion models in your own projects.
+understanding how to use diffusion models in your projects.
 
 ### Usage
 
@@ -58,11 +58,11 @@ Fusion releases.
   quality possible from the generated work, but it does have the advantage of
   making the code more maintainable and the setup steps run much faster.
 
-- **Openess**  
+- **Openness**  
   Figment Fusion is released in the public domain, which means that anyone can
   freely copy, modify, and share its code. This should be beneficial to those
-  who wish to use it as a starting point for their own projects, and thus
-  contribute to the growth of the AI artwork ecossystem.
+  who wish to use it as a starting point for their own projects and thus
+  contribute to the growth of the AI artwork ecosystem.
 
 ### License
 
